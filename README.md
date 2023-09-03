@@ -49,7 +49,7 @@
 <li> <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>  HTML </li>
 <li> <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>  CSS </li>
 <li> <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/>  Javascript  </li>
-<li> <img src="https://img.icons8.com/?size=512&id=84710&format=png" alt="Bootstrap" width="30" height="30"/> Bootstrap</li>
+<li> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="30" height="30"/> Bootstrap</li>
 <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="30" height="25"/>  C ++ </li>
 <li> <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/> Figma </li>
 <li> <img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  SQL </li>
