@@ -102,7 +102,7 @@
 </as>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu"     height="145px" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu"     height="145px" width="45%" />
 
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="45%"/>
