@@ -42,7 +42,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
 
-<ol>
+<ol style='list-style-type: square;'>
 
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
