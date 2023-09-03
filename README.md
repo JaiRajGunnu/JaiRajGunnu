@@ -66,6 +66,11 @@
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://img.icons8.com/?size=512&id=xpZyBcADYUSf&format=png" alt="Bootstrap" width="30" height="30"/>
+</a>  C ++
+</li>
+<li>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>
 </a>  Figma
 </li>
