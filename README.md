@@ -45,18 +45,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
-<ol>
-<li> <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>  HTML </li>
-<li> <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>  CSS </li>
-<li> <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/>  Javascript  </li>
-<li> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="30" height="25"/> Bootstrap</li>
-<li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="30" height="25"/>  C ++ </li>
-<li> <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="25"/> Figma </li>
-<li> <img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  SQL </li>
-<li> <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> React.js </li>
-<li> <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwand" width="30" height="30"/> Tailwand.css </li>
-<li>  <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/> Flutter  </li>
-</ol>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/>  Javascript
+<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="30" height="25"/> Bootstrap
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="30" height="25"/>  C ++ 
+<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="25"/> Figma 
+<img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  SQL 
+<img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> React.js 
+<img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwand" width="30" height="30"/> Tailwand.css 
+<img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/> Flutter  
 </as>
 
 
