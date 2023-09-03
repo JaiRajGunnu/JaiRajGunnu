@@ -27,11 +27,11 @@
 
 - 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" />
 
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<as align="left">
 <a href="https://linkedin.com/in/jairajgunnu" target="blank">
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1xGWiwUO8ZxUWbW5AVWBKcdfmzbWb1h4bGopCqq7oOSPy6igeS8grtbLnSjYqPg-7o-DxgyAKU9uqa4L8DDl_2OIUHo8ko2Pwbq2nK0kJ9ar6IvrNft2wNPFk7gX1PeUnsaSJxekkSokheBKA8g-rzluhgnsZ2f71GuARyxXVZApNikAg0JZ4_BQA3Vla/s1600/icons8-linkedin-48.png" alt="jairajgunnu" height="36" width="36" />
 </a>
@@ -101,7 +101,7 @@
 </a>  Flutter
 </li>
 </ol>
-</div>
+</as>
 
 
 
