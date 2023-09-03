@@ -7,21 +7,21 @@
 
 - 🌱 I’m currently learning **other frameworks.**
 
-- 👯 I’m looking to collaborate on **Font-end projects.**
+- 👯 I’m looking to collaborate on **Front-end projects.**
 
 - 🤝 I’m looking for help with **clients.**
 
-- 👨‍💻 Have a look on my portfolio .. [https://jairaj-portfolio.blogspot.com/](https://jairaj-portfolio.blogspot.com/)
+- 👨‍💻 Have a look at my [portfolio](https://jairaj-portfolio.blogspot.com/)
 
-- 🌐 Have a look on my blog [http://epgsk.blogspot.com/](http://epgsk.blogspot.com/)
+- 🌐 Have a look at my [blog](http://epgsk.blogspot.com/)
 
 - 💬 Ask me about **your queries.**
 
-- 📫 How to reach me **jairajgsklm@gmail.com**
+- 📫 Feel free to reach me [Contact now](mailto:jairajgsklm@gmail.com)
 
-- 📄 Know about my skills .. [https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)
+- 📄 Know about my skills .. [View Resume](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)
 
-- ⚡ Also intersted in **Photo & Video editings**
+- ⚡ Also interested in **Photo & Video editings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
