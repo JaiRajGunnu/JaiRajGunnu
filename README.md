@@ -4,9 +4,7 @@
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 
 <img align='right' src='https://svgur.com/i/xDS.svg' width='400px'>
-<enter>
-<div> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /> </div>
-</center>
+<div align='right'> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /> </div>
 - 🔭 I’m currently working on **video platform project.**
 
 - 🌱 I’m currently learning **other frameworks.**
