@@ -76,13 +76,13 @@
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/>
-</a>  Flutter
+<img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>
+</a>  SQL
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>
-</a>  SQL
+<img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/>
+</a>  Flutter
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
