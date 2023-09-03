@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jairajgunnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairajgunnu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jairajgunnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairajgunnu" height="30" width="40" /></a>
+<a href="https://twitter.com/jairajgunnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jairajgunnu" height="30" width="40" /></a>
 <a href="https://fb.com/jairajgunnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jairajgunnu" height="30" width="40" /></a>
 <a href="https://instagram.com/jairaj_gunnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jairaj_gunnu" height="30" width="40" /></a>
 </p>
