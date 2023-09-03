@@ -28,7 +28,7 @@
 - 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" />
-
+<br>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" alt="jairajgunnu" />
 
 
