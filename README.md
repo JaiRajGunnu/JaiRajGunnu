@@ -19,7 +19,7 @@
 
 - 🌐 Have a look at my **[blog](http://epgsk.blogspot.com/)**.
 
-- 📄 Know about my skills .. **[View Resume](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**
+- 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 
 
 <h3 align="left">Connect with me:</h3>
