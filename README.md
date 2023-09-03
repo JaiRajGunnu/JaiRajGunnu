@@ -55,7 +55,7 @@
 <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/>  
 </div>
 <br <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu"     height="145px" width="45%" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" height="145px" width="44%" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="44%"/>
 
 
