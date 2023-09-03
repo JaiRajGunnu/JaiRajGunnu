@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 
-<div  align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=0e75b6&style=flat" alt="jairajgunnu" /> </div>
+<div  align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
 
 - 🔭 I’m currently working on **video platform project.**
 
