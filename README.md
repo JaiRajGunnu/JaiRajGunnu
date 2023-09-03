@@ -40,57 +40,59 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
+<div align="left">
 
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
 </a>  HTML
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
 </a>  CSS
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Java Script" width="30" height="30"/>
 </a>  Java Script
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=84710&format=png" alt="Bootstrap" width="30" height="30"/>
 </a>  Bootstrap
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=xpZyBcADYUSf&format=png" alt="Bootstrap" width="30" height="30"/>
 </a>  C ++
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>
 </a>  Figma
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/>
 </a>  Flutter
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>
 </a>  SQL
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/>
 </a>  React.js
   
  
-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" alt="tailwand" width="30" height="30"/>
 </a>  Tailwand.css
   
 
 
+</div>
 
