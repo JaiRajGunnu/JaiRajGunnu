@@ -40,7 +40,6 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
 
  
 - <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -94,5 +93,4 @@
   
 
 
-</div>
 
