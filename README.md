@@ -39,7 +39,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div class="lang"  align="left">
+<div class="lang"  align="left" style='display:flex;
+    column-direction:column;
+    gap:20px;'>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> 
@@ -71,12 +73,3 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a> </div>
 
-
-<style>
-
-.lang {
-    display:flex;
-    column-direction:column;
-    gap:20px;
-}
-</style>
