@@ -31,7 +31,7 @@
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuPItNqA2XdQKc8Y4dt0eGzkh7haEwUSkxYXjeRdtWU4sxft98REISHioplkCc4KXJ0qR-7gyBjymr9hpPUf16S7TyiOQDg02yHARyjgb6zAZ73wKhx2HrKKKZTFtDkTT6b5OmPWSehkOsJLIrpUFHKgjXf-vJ926vy4y2ZTmJJ6k1a0pHgXdTuXyAeZk/s1600/icons8-instagram-48.png" alt="jairajgunnu" height="36" width="36" />
 </a>
 <a href="https://fb.com/jairajgunnu" target="blank">
-<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7oHX7bC15bwIR1MFLTIbfI_0623o8t1pTTq94HjKtIAqm4H5w1BbgmQBG9c617jx7i67jQrMjFSJMdqVqtkWtNtORbirPwc7EU0NdQtR4y8vYjMnx4Mv5AcLRiMfpQ5H5qCdlHE_qcxG-CavKgiX7oFJqLwZpr3Xuf04dH8--0jH1xMV1KcR_pVQJm9Qk/s1600/icons8-facebook-48.png" alt="jairajgunnu" height="35" width="35" />
+<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7oHX7bC15bwIR1MFLTIbfI_0623o8t1pTTq94HjKtIAqm4H5w1BbgmQBG9c617jx7i67jQrMjFSJMdqVqtkWtNtORbirPwc7EU0NdQtR4y8vYjMnx4Mv5AcLRiMfpQ5H5qCdlHE_qcxG-CavKgiX7oFJqLwZpr3Xuf04dH8--0jH1xMV1KcR_pVQJm9Qk/s1600/icons8-facebook-48.png" alt="jairajgunnu" height="33" width="33" />
 </a>
 <a href="https://twitter.com/jairajgunnu" target="blank">
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIRfYXLv3e6__9J-4m5gn_EbSTgGrfNdSslQYhnQOxRT_aOYFkDGQEejWTcHS5orptcNzKH6cA1t28YsBgCgQ8dRGbX3nxZKPhwuT6eclNFl3zJOykbmO2-vVlg_HFj9Z9lRgLFdiBOuKnCFzTLXxvg-eY8Y_JShBIIOIMdXrwpYBQsgGs8HaSqv6YUzMn/s1600/icons8-x-50%20(1).png" alt="jairajgunnu" height="28" width="28" />
@@ -55,7 +55,7 @@
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Java Script" width="30" height="30"/>
-</a>  Java Script
+</a>  Javascript
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
