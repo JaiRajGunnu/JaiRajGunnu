@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jai Raj Gunnu</h1>
+<h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
