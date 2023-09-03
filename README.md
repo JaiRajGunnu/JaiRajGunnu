@@ -17,7 +17,7 @@
 
 -  💬 Please feel free to ask **any questions** you have in mind.
 
-- 📫 Feel free to reach out to me **[(Mail)](mailto:jairajgsklm@gmail.com)**.
+- 📫 Feel free to reach out to me **[(Social)](#connect-with-me)**.
 
 - 👨‍💻 Have a look at my **[portfolio](https://jairaj-portfolio.blogspot.com/)**.
 
