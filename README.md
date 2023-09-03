@@ -5,6 +5,8 @@
 
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
 
+
+<img align='right' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAJSCLj7JqXqq5onxydp--Zx-XIAAHjd6-8yR_O8ZvSwnVKEhw9JwchS3L6LQ1UBSkXFVrVELGJL5jTK3s-UO3mIPvQbVlkNd-6r5Kmd_uGYr597mTwaXcBtrFjBrlhCXZEni6p2mqkomTZQq5Kh-_lHctH_Bi9gQntbCSj04vgjG8anuj0GNxQJgbEw/s16000/EPGSK%20Hero.png' width='100%'>
 - 🔭 I’m currently working on **video platform project.**
 
 - 🌱 I’m currently learning **other frameworks.**
