@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/jairajgunnu" target="blank">
-<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1xGWiwUO8ZxUWbW5AVWBKcdfmzbWb1h4bGopCqq7oOSPy6igeS8grtbLnSjYqPg-7o-DxgyAKU9uqa4L8DDl_2OIUHo8ko2Pwbq2nK0kJ9ar6IvrNft2wNPFk7gX1PeUnsaSJxekkSokheBKA8g-rzluhgnsZ2f71GuARyxXVZApNikAg0JZ4_BQA3Vla/s1600/icons8-linkedin-48.png" alt="jairajgunnu" height="34" width="34" />
+<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1xGWiwUO8ZxUWbW5AVWBKcdfmzbWb1h4bGopCqq7oOSPy6igeS8grtbLnSjYqPg-7o-DxgyAKU9uqa4L8DDl_2OIUHo8ko2Pwbq2nK0kJ9ar6IvrNft2wNPFk7gX1PeUnsaSJxekkSokheBKA8g-rzluhgnsZ2f71GuARyxXVZApNikAg0JZ4_BQA3Vla/s1600/icons8-linkedin-48.png" alt="jairajgunnu" height="36" width="36" />
 </a>
 <a href="https://instagram.com/jairaj_gunnu" target="blank">
 <img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIuPItNqA2XdQKc8Y4dt0eGzkh7haEwUSkxYXjeRdtWU4sxft98REISHioplkCc4KXJ0qR-7gyBjymr9hpPUf16S7TyiOQDg02yHARyjgb6zAZ73wKhx2HrKKKZTFtDkTT6b5OmPWSehkOsJLIrpUFHKgjXf-vJ926vy4y2ZTmJJ6k1a0pHgXdTuXyAeZk/s1600/icons8-instagram-48.png" alt="jairajgunnu" height="36" width="36" />
