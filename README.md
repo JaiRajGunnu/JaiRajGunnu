@@ -60,7 +60,7 @@
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Java Script" width="30" height="30"/>
+<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/>
 </a>  Javascript
 </li>
 <li>
@@ -70,7 +70,7 @@
 </li>
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=xpZyBcADYUSf&format=png" alt="Bootstrap" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="30" height="30"/>
 </a>  C ++
 </li>
 <li>
