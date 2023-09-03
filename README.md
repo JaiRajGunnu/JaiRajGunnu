@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 
-<div  align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
 
 - 🔭 I’m currently working on **video platform project.**
 
@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 <a href="https://linkedin.com/in/jairajgunnu" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jairajgunnu" height="30" width="40" />
+<img align="center" src="https://img.icons8.com/?size=512&id=8808&format=png" alt="jairajgunnu" height="30" width="40" />
 </a>
 <a href="https://instagram.com/jairaj_gunnu" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jairaj_gunnu" height="30" width="40" />
