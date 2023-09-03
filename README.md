@@ -1,3 +1,5 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)]
+
 <h1 align="center">Hi 👋, I'm Jai Raj Gunnu</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
