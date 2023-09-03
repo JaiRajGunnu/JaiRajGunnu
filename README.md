@@ -27,6 +27,8 @@
 
 - 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -100,8 +102,6 @@
 </li>
 </ol>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" /></p>
 
 
 
