@@ -13,7 +13,7 @@
 
 -  💬 Please feel free to ask **any questions** you have in mind.
 
-- 📫 Feel free to reach out to me **[Mail](mailto:jairajgsklm@gmail.com)**.
+- 📫 Feel free to reach out to me **[(Mail)](mailto:jairajgsklm@gmail.com)**.
 
 - 👨‍💻 Have a look at my **[portfolio](https://jairaj-portfolio.blogspot.com/)**.
 
@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div class="lang"  align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> 
@@ -74,5 +74,9 @@
 
 <style>
 
-
+.lang {
+    display:flex;
+    column-direction:column;
+    gap:20px;
+}
 </style>
