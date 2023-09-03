@@ -29,6 +29,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" />
 
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" alt="jairajgunnu" />
+
 
 <h3 align="left">Connect with me:</h3>
 <as align="left">
@@ -105,6 +107,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" alt="jairajgunnu" /></p>
 
 
