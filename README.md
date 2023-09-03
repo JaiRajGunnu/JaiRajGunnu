@@ -11,15 +11,15 @@
 
 - ⚡ Also interested in **Photo & Video editings.**
 
--  💬 Ask me about **your queries.**
+-  💬 Please feel free to ask **any questions** you have in mind.
 
-- 📫 Feel free to reach me [Contact now](mailto:jairajgsklm@gmail.com)
+- 📫 Feel free to reach me **[Contact now](mailto:jairajgsklm@gmail.com)**.
 
-- 👨‍💻 Have a look at my [portfolio](https://jairaj-portfolio.blogspot.com/)
+- 👨‍💻 Have a look at my **[portfolio](https://jairaj-portfolio.blogspot.com/)**.
 
-- 🌐 Have a look at my [blog](http://epgsk.blogspot.com/)
+- 🌐 Have a look at my **[blog](http://epgsk.blogspot.com/)**.
 
-- 📄 Know about my skills .. [View Resume](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)
+- 📄 Know about my skills .. **[View Resume](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
