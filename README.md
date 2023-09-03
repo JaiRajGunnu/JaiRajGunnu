@@ -101,6 +101,10 @@
 </ol>
 </div>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jairajgunnu&show_icons=true&locale=en" alt="jairajgunnu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" alt="jairajgunnu" /></p>
 
 
