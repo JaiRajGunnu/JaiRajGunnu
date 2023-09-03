@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="15" height="15"/>
+<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="17" height="17"/>
 </a>  HTML
 </li>
 
