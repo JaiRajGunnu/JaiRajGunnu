@@ -9,19 +9,18 @@
 
 - 👯 I’m looking to collaborate on **Front-end projects.**
 
-- 🤝 I’m looking for help with **clients.**
+- ⚡ Also interested in **Photo & Video editings.**
+
+-  💬 Ask me about **your queries.**
+
+- 📫 Feel free to reach me [Contact now](mailto:jairajgsklm@gmail.com)
 
 - 👨‍💻 Have a look at my [portfolio](https://jairaj-portfolio.blogspot.com/)
 
 - 🌐 Have a look at my [blog](http://epgsk.blogspot.com/)
 
-- 💬 Ask me about **your queries.**
-
-- 📫 Feel free to reach me [Contact now](mailto:jairajgsklm@gmail.com)
-
 - 📄 Know about my skills .. [View Resume](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)
 
-- ⚡ Also interested in **Photo & Video editings.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
