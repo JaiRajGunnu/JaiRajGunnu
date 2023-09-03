@@ -6,7 +6,7 @@
 <div align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=red&style=flat" alt="jairajgunnu" /> </div>
 
 
-<img align='right' src='https://svgur.com/i/xF8.svg' width='500px'>
+<img align='right' src='https://svgur.com/i/xDS.svg' width='350px'>
 
 
 - 🔭 I’m currently working on **video platform project.**
