@@ -1,11 +1,9 @@
 <img align='center' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYBF2deeTTGW1pFosxjhHyCsY7udMVqsA9VztGtF9sgrLY4L6hU1gG4pGz35fYgPHAjQW-oRnZAnrh4oBI9Y9ypYQwwhCiKMZqnKct8k_BsZLPBH8ojl3lE4kKJprU7dUb0L5l-QRDAOTUszlBcdFCmBDe9f8TeCmx6tXNGK-sI7-oFOBn3ax6sqfkZKkP/s16000/20230903131611.png' />
-
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 <br>
 <img align='right' src='https://svgur.com/i/xDS.svg' width='400px'>
-<div align='left'> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /> </div>
-
+<div align='left'> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /></div>
 
 - 🔭 I’m currently working on **video platform project.**
 
@@ -58,5 +56,3 @@
 <br> <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" height="145px" width="44%" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="44%"/>
-
-
