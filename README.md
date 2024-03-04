@@ -51,7 +51,7 @@
 <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/> 
 <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0T9nA2CImX9hVo54xpukh3tamrWCX9dVziFUgyArRwM7U2vXlIF2K3Zpu-Dz5qt3Yf-hxAUrk7_zjYusnCgaoc_mZkS2RkM3vNxUMTiD82XqXyPV-ewFbozAfZsFeGLn7zVO1LLxnaHDswTP6-GO9uUP7OmYOwCXBXRis2OqNAzqTTdEyBuiBAq7t4uk/s320/image-removebg-preview%20(1).png" alt="tailwand" width="30" height="30"/>  
-<img src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" alt="MongoDB" width="30" height="30"/>
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="MongoDB" width="30" height="30"/>
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/>  
 
 </div>
