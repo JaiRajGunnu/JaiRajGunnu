@@ -50,8 +50,10 @@
 <img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  
 <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/> 
 <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> 
-<img src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" alt="tailwand" width="30" height="30"/>  
-<img src="https://img.icons8.com/?size=512&id=pCvIfmctRaY8&format=png" alt="Flutter" width="30" height="30"/>  
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0T9nA2CImX9hVo54xpukh3tamrWCX9dVziFUgyArRwM7U2vXlIF2K3Zpu-Dz5qt3Yf-hxAUrk7_zjYusnCgaoc_mZkS2RkM3vNxUMTiD82XqXyPV-ewFbozAfZsFeGLn7zVO1LLxnaHDswTP6-GO9uUP7OmYOwCXBXRis2OqNAzqTTdEyBuiBAq7t4uk/s320/image-removebg-preview%20(1).png" alt="tailwand" width="30" height="30"/>  
+<img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="MongoDB" width="30" height="30"/>
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/>  
+
 </div>
 <br> <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" height="145px" width="44%" />
