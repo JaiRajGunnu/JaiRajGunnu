@@ -1,4 +1,4 @@
-<img align='center' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYBF2deeTTGW1pFosxjhHyCsY7udMVqsA9VztGtF9sgrLY4L6hU1gG4pGz35fYgPHAjQW-oRnZAnrh4oBI9Y9ypYQwwhCiKMZqnKct8k_BsZLPBH8ojl3lE4kKJprU7dUb0L5l-QRDAOTUszlBcdFCmBDe9f8TeCmx6tXNGK-sI7-oFOBn3ax6sqfkZKkP/s16000/20230903131611.png' />
+<img align='center' src='https://media.licdn.com/dms/image/D4E16AQFcDKbMogHlAA/profile-displaybackgroundimage-shrink_350_1400/0/1707841081475?e=1715212800&v=beta&t=EPyMCwkQngpcUdgPRGr1gab-e26VPNp4mYTavTTxv7c' />
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate frontend developer.</i></h3></h3>
 <br>
