@@ -56,5 +56,7 @@
 
 </div>
 <br> <br>
+<center>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" height="145px" width="44%" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="44%"/>
+</center>
+<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="44%"/> -->
