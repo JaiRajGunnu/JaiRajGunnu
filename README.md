@@ -1,8 +1,8 @@
-<img align='center' src='https://media.licdn.com/dms/image/D4E16AQFcDKbMogHlAA/profile-displaybackgroundimage-shrink_350_1400/0/1707841081475?e=1715212800&v=beta&t=EPyMCwkQngpcUdgPRGr1gab-e26VPNp4mYTavTTxv7c' />
+<!--<img align='center' src='https://media.licdn.com/dms/image/D4E16AQFcDKbMogHlAA/profile-displaybackgroundimage-shrink_350_1400/0/1707841081475?e=1715212800&v=beta&t=EPyMCwkQngpcUdgPRGr1gab-e26VPNp4mYTavTTxv7c' /> -->
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
 <h3 align="center"><i>A passionate full-stack developer.</i></h3></h3>
 <br>
-<img align='right' src='https://svgur.com/i/xDS.svg' width='400px'>
+<!--<img align='right' src='https://svgur.com/i/xDS.svg' width='400px'> -->
 <div align='left'> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /></div>
 
 - 🔭 I’m currently working on **video platform project.**
