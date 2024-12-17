@@ -1,27 +1,17 @@
-<!--<img align='center' src='https://media.licdn.com/dms/image/D4E16AQFcDKbMogHlAA/profile-displaybackgroundimage-shrink_350_1400/0/1707841081475?e=1715212800&v=beta&t=EPyMCwkQngpcUdgPRGr1gab-e26VPNp4mYTavTTxv7c' /> -->
 <h1 align="center">Hi 👋, This is Jai Raj Gunnu</h1>
-<h3 align="center"><i>A passionate full-stack developer.</i></h3></h3>
+<h3 align="center"><i>A passionate full-stack engineer</i></h3>
 <br>
-<!--<img align='right' src='https://svgur.com/i/xDS.svg' width='400px'> -->
-<div align='left'> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /></div>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=jairajgunnu&label=Profile%20views&color=2f81f7&style=flat" alt="jairajgunnu" /></div>
 
-- 🔭 I’m currently working on **video platform project.**
-
-- 🌱 I’m currently learning **other frameworks.**
-
-- 👯 I’m looking to collaborate on **Front-end projects.**
-
-- ⚡ Also interested in **Photo & Video editings.**
-
--  💬 Please feel free to ask **any questions** you have in mind.
-
+- 🔭 I’m currently working on **AI-Powered Story Generator project**.
+- 🌱 I’m currently learning **Docker and other frameworks**.
+- 👯 I’m looking to collaborate on **Full-stack, Front-end, and AI-related projects & others**.
+- ⚡ Also interested in **AI & ML**.
+- 💬 Please feel free to ask **any questions** you have in mind.
 - 📫 Feel free to reach out to me **[(Social)](#connect-with-me)**.
-
 - 👨‍💻 Have a look at my **[portfolio](https://jairaj-portfolio.blogspot.com/)**.
+- 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1dsa-n81N4gOAHBPV11vxj3XQfvhIzZcH/view?usp=sharing)**.
 
-- 🌐 Have a look at my **[blog](http://epgsk.blogspot.com/)**.
-
-- 📄 Explore the vast range of **[my skills](https://drive.google.com/file/d/1hlROXlRS30L36T4FyfAWc38uoWM4ioFj/view?usp=sharing)**.
 <br>
 <div align="left">
 <h3>Connect with me:</h3>
@@ -39,24 +29,29 @@
 </a>
 </div>
 <br>  
+
 <div align="left">
 <h3>Languages and Tools:</h3>
-<img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
-<img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
-<img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/> 
-<img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="30" height="30"/>
-<img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>  
-<img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  
-<img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/> 
-<img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0T9nA2CImX9hVo54xpukh3tamrWCX9dVziFUgyArRwM7U2vXlIF2K3Zpu-Dz5qt3Yf-hxAUrk7_zjYusnCgaoc_mZkS2RkM3vNxUMTiD82XqXyPV-ewFbozAfZsFeGLn7zVO1LLxnaHDswTP6-GO9uUP7OmYOwCXBXRis2OqNAzqTTdEyBuiBAq7t4uk/s320/image-removebg-preview%20(1).png" alt="tailwand" width="30" height="30"/>  
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="MongoDB" width="30" height="30"/>
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/>  
-
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="html5" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png" alt="css3" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=512&id=PXTY4q2Sq2lG&format=png" alt="Javascript" width="30" height="30"/> 
+    <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="30" height="30"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=512&id=zfHRZ6i1Wg0U&format=png" alt="Figma" width="30" height="30"/>  
+    <img src="https://img.icons8.com/?size=512&id=QSjnrUKYMnxO&format=png" alt="MySQL" width="30" height="30"/>  
+    <img src="https://img.icons8.com/?size=512&id=21895&format=png" alt="API" width="30" height="30"/> 
+    <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> 
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0T9nA2CImX9hVo54xpukh3tamrWCX9dVziFUgyArRwM7U2vXlIF2K3Zpu-Dz5qt3Yf-hxAUrk7_zjYusnCgaoc_mZkS2RkM3vNxUMTiD82XqXyPV-ewFbozAfZsFeGLn7zVO1LLxnaHDswTP6-GO9uUP7OmYOwCXBXRis2OqNAzqTTdEyBuiBAq7t4uk/s320/image-removebg-preview%20(1).png" alt="tailwind" width="30" height="30"/>  
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="MongoDB" width="30" height="30"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/>
+    <img src="https://raw.githubusercontent.com/github/explore/eb40fa94e4b686db568094600bb30065acce30c3/topics/linux/linux.png" alt="Linux" width="30" height="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/438px-Windows_logo_-_2012.png" alt="Windows" width="30" height="30"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="30" height="30"/>
 </div>
-<br> <br>
+</div>
+<br> 
+
 <center>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jairajgunnu&show_icons=true&locale=en&layout=compact" alt="jairajgunnu" height="145px" width="44%" />
 </center>
-<!-- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgunnu&" height="145px"  width="44%"/> -->
