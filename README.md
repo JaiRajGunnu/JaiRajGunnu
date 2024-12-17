@@ -44,10 +44,10 @@
     <img src="https://img.icons8.com/?size=512&id=t4YbEbA834uH&format=png" alt="react" width="30" height="30"/> 
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0T9nA2CImX9hVo54xpukh3tamrWCX9dVziFUgyArRwM7U2vXlIF2K3Zpu-Dz5qt3Yf-hxAUrk7_zjYusnCgaoc_mZkS2RkM3vNxUMTiD82XqXyPV-ewFbozAfZsFeGLn7zVO1LLxnaHDswTP6-GO9uUP7OmYOwCXBXRis2OqNAzqTTdEyBuiBAq7t4uk/s320/image-removebg-preview%20(1).png" alt="tailwind" width="30" height="30"/>  
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-3521676-2945120.png" alt="MongoDB" width="30" height="30"/>
-    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/github/explore/eb40fa94e4b686db568094600bb30065acce30c3/topics/linux/linux.png" alt="Linux" width="30" height="30"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/438px-Windows_logo_-_2012.png" alt="Windows" width="30" height="30"/>
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="30" height="30"/>
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="28" height="28"/>
+    <img src="https://raw.githubusercontent.com/github/explore/eb40fa94e4b686db568094600bb30065acce30c3/topics/linux/linux.png" alt="Linux" width="28" height="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Windows_logo_-_2012.png/438px-Windows_logo_-_2012.png" alt="Windows"width="28" height="28"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" width="28" height="28"/>
 </div>
 </div>
 <br> 
