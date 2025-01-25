@@ -2,10 +2,6 @@
 <h3 align="center">A Passionate Java Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jR0v04mDqj5y8380V4/giphy.gif" width="40" align="center">
-</p>
-
-<p align="center">
   I'm always eager to learn and create. Here's a little about what I'm up to:
 </p>
 
