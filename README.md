@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **any creative projects**
 
-- 👨‍💻 All of my projects are available at [https://surfmyresume.vercel.app/](https://surfmyresume.vercel.app/)
+- 👨‍💻 All of my projects are available at [Surf My resume](https://surfmyresume.vercel.app/)
 
 - 💬 Ask me about **creative designs**
 
 - 📫 How to reach me **jairajgsklm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing)
+- 📄 go through my [resume](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
