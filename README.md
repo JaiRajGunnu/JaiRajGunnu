@@ -12,9 +12,9 @@
 - 👯 Looking to collaborate on **innovative projects**, especially those involving creative design and backend integration.
 - 💬 Feel free to ask me about **creative designs, Java development, and software architecture.**
 - 📫 You can reach me at **jairajgsklm@gmail.com**
-- 🏄 Check out my projects by playing, [Surf My Resume](https://surfmyresume.vercel.app/)
-- 👨‍💻 Check out my [portfolio](https://jrg-portfolio-25.vercel.app/)
-- 📄 Take a look at my [resume](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing)
+- 🏄 Check out my projects by playing, [Surf My Resume](https://surfmyresume.vercel.app/).
+- 👨‍💻 Check out my professional [portfolio](https://jrg-portfolio-25.vercel.app/).
+- 📄 Take a look at my [resume](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing).
 
 <br>
 
