@@ -10,9 +10,10 @@
 - 🔭 Currently working on **Java-based projects**, exploring new architectures and problem-solving techniques.
 - 🌱 Currently learning **Docker, Kubernetes, and cloud deployment strategies** to enhance my development workflow.
 - 👯 Looking to collaborate on **innovative projects**, especially those involving creative design and backend integration.
-- 👨‍💻 Check out my portfolio and projects at [Surf My Resume](https://surfmyresume.vercel.app/)
+- 👨‍💻 Check out my [portfolio](https://jrg-portfolio-25.vercel.app/)
 - 💬 Feel free to ask me about **creative designs, Java development, and software architecture.**
 - 📫 You can reach me at **jairajgsklm@gmail.com**
+- 🏄 Check out my projects by playing, [Surf My Resume](https://surfmyresume.vercel.app/)
 - 📄 Take a look at my [resume](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing)
 
 <br>
