@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Java Full Stack Developer</h3>
 
 <p align="center">
-  I'm always eager to learn and create. Here's a little about what I'm up to:
+  I'm always eager to learn and create. 
 </p>
 
 <br>
