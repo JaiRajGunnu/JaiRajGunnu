@@ -67,7 +67,7 @@
 
 <br>
 
-[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <h3 align="left">Support:</h3>
 <p>
