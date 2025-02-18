@@ -67,15 +67,12 @@
 
 <br>
 
-
-## 📊 GitHub Stats
-![Jai Raj Gunnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jairajgunnu&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairajgunnu&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jairajgunnu&theme=radical)
-
----
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jairajgsklm&show_icons=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgsklm" alt="GitHub Streak">
+    <img src="https://github-readme-contribution-graph.vercel.app/api?username=jairajgsklm" alt="Contribution Graph">
+</p>
 
 <h3 align="left">Support:</h3>
 <p>
@@ -83,4 +80,4 @@
         <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jairajgunnu" />
     </a>
 </p>
-<br><br>
+<br><be>
