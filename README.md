@@ -97,8 +97,8 @@
 
 <br>
 <div align="center">
-[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true)](https://git.io/streak-stats)</div>
-
+[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true)](https://git.io/streak-stats)
+</div>
 <br clear="both">
 
 
