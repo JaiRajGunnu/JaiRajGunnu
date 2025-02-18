@@ -67,12 +67,6 @@
 
 <br>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jairajgsklm&show_icons=true" alt="GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairajgsklm" alt="GitHub Streak">
-    <img src="https://github-readme-contribution-graph.vercel.app/api?username=jairajgsklm" alt="Contribution Graph">
-</p>
 
 <h3 align="left">Support:</h3>
 <p>
