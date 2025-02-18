@@ -67,6 +67,16 @@
 
 <br>
 
+
+## 📊 GitHub Stats
+![Jai Raj Gunnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jairajgunnu&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jairajgunnu&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jairajgunnu&theme=radical)
+
+---
+
 <h3 align="left">Support:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/jairajgunnu">
