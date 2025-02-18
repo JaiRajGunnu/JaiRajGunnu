@@ -15,7 +15,7 @@
 - 👨‍💻 Check out my professional [portfolio](https://jrg-portfolio-25.vercel.app/).
 - 📄 Take a look at my [resume](https://drive.google.com/file/d/1IGUTqi5y6EmrkgrncJKtN9XD6fGXV2dx/view?usp=sharing).
 
-<br>
+<br clear="both">
 
 <h3 align="left">Tech Stack:</h3>
 
@@ -67,6 +67,8 @@
 
 ###
 
+<br clear="both">
+
 <h3 align="left">Connect With Me:</h3>
 <div align="center">
   <a href="mailto:jairajgsklm@gmail.com" target="_blank">
@@ -87,6 +89,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">My Stats:</h3>
 <div align="center">
