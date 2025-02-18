@@ -3,10 +3,10 @@
 <h1 align="center">Hey 👋, I'm Jai Raj Gunnu</h1>
 
 ###
+<br>
 
 <h3 align="left">Glimpse:</h3>
 
-<br>
 
 - 🔭 Currently working on **Java-based projects**, exploring new architectures and problem-solving techniques.
 - 🌱 Currently learning **Docker, Kubernetes, and cloud deployment strategies** to enhance my development workflow.
@@ -96,11 +96,10 @@
 ###
 
 <br>
-
-[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_longest_streak=true)](https://git.io/streak-stats)
+<div align="center">
+[![GitHub Streak](https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true)](https://git.io/streak-stats)</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jairajgunnu/jairajgunnu/output/snake.svg" alt="Snake animation" />
 
 ###
