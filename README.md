@@ -3,8 +3,6 @@
 <h1 align="center">Hey 👋, I'm Jai Raj Gunnu</h1>
 
 ###
-<br>
-
 <h3 align="left">Glimpse:</h3>
 
 
@@ -95,10 +93,10 @@
 
 ###
 
-<br>
+<br clear="both">
+<h3 align="left">Connect With Me:</h3>
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true" alt="GitHub Streak" /></a>
-<br clear="both">
-
 
 ###
