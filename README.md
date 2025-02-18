@@ -17,7 +17,6 @@
 
 <br>
 
-<br clear="both">
 <h3 align="left">Tech Stack:</h3>
 
 <div align="center">
@@ -64,15 +63,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
 ###
 
-<br clear="both">
 <h3 align="left">Connect With Me:</h3>
-
 <div align="center">
   <a href="mailto:jairajgsklm@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -93,10 +88,10 @@
 
 ###
 
-<br clear="both">
 <h3 align="left">My Stats:</h3>
-
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+  <img src="https://jairajgunnu-git-stats.vercel.app?user=jairajgunnu&theme=rising-sun&hide_border=true&card_width=769&card_height=300&hide_longest_streak=true" alt="GitHub Streak" />
+</a>
 
 ###
